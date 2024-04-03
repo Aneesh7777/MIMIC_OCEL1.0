@@ -2,7 +2,7 @@
 Hello,Hope you are doing good, my research can be divided in 3 steps...
 1. generating an event log(folder mimic_extraction)
 2. event log analysis(event_log_analysis)
-3. Discovery(using disco)
+3. Discovery(using pm4py)
 4. Converting event log to OCEL(Object Centric Event Log)
 5. Generating a process model from OCEL(folder discovery)
 
